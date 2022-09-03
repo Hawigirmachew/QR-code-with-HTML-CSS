@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
  - Solution URL : 
- - Live Site URL :
+ - Live Site URL : https://super-bublanina-9aa329.netlify.app/
 ## My process
 
 ### Built with
@@ -47,7 +47,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   In Mobile-size page
 ## Author
 
-website -[Hawi Girmachew] ((https://aquamarine-lollipop-6d674e.netlify.app/))
+website -[Hawi Girmachew] (https://super-bublanina-9aa329.netlify.app/)
 Frontend Mentor @Hawigirmachew (https://bespoke-douhua-254948.netlify.app/)
 Twitter - @girmachee_h(https://twitter.com/girmachee_h) 
 
