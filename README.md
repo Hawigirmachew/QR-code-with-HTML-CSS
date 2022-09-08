@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
  - Solution URL : (https://www.frontendmentor.io/solutions/qrcodewithhtmlcss-oXtn4HH4kS)
- - Live Site URL : https://super-bublanina-9aa329.netlify.app/
+ - Live Site URL : https://loquacious-parfait-209f1f.netlify.app/
 ## My process
 
 ### Built with
@@ -47,7 +47,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   In Mobile-size page
 ## Author
 
-website -[Hawi Girmachew] (https://super-bublanina-9aa329.netlify.app/)
+website -[Hawi Girmachew] (https://loquacious-parfait-209f1f.netlify.app/)
 Frontend Mentor @Hawigirmachew (https://bespoke-douhua-254948.netlify.app/)
 Twitter - @girmachee_h(https://twitter.com/girmachee_h) 
 
